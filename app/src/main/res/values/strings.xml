@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">PetahTikvaTour</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="attraction_1_name">Petach Tikva Market</string>
+    <string name="attraction_1_desc">Every kind of food market.</string>
+    <string name="attraction_1_address">Ze\'ev Lipkis St, Petah Tikva</string>
+    <string name="attraction_2_name">Petach Tikva Museum of Art</string>
+    <string name="attraction_2_desc">Museum for current art.</string>
+    <string name="attraction_2_address">Haim Arlozorov St 30, Petah Tikva, 49100</string>
+    <string name="attraction_3_name">iJump</string>
+    <string name="attraction_3_desc">Trampolines Park</string>
+    <string name="attraction_3_address">Ben Tsiyon Galis St 55, Petah Tikva</string>
+    <string name="history_1_name">Great Synagogue in Petah Tikva</string>
+    <string name="history_1_desc" />
+    <string name="history_1_address">Hovevei Tsiyon St 37, Petah Tikva</string>
+    <string name="history_2_name">Petah Tikva bridge</string>
+    <string name="history_3_name">Goodmann-Rotbard House</string>
+    <string name="history_2_desc">Museum for current art.</string>
+    <string name="history_3_desc">Historical house</string>
+    <string name="history_2_address">Ze\'ev Jabotinsky Rd 54, Petah Tikva</string>
+    <string name="history_3_address">Rothschild Street 62, Petah Tikva</string>
+    <string name="pubs_1_name">Jems Beer Factory</string>
+    <string name="pubs_2_name">Oscar Wild Irish Pub</string>
+    <string name="pubs_3_name">Marla Singer</string>
+    <string name="pubs_1_desc">In-house making beers</string>
+    <string name="pubs_2_desc">Irish Pub</string>
+    <string name="pubs_3_desc">All kind of beers</string>
+    <string name="pubs_1_address">HaMagshimim 15 St,Petah Tikva</string>
+    <string name="pubs_2_address">Shacham st 36, Petah Tikva</string>
+    <string name="pubs_3_address">Shacham st 32, Petah Tikva</string>
+    <string name="restaurant_1_name">Triola</string>
+    <string name="restaurant_2_name">Spaghettim</string>
+    <string name="restaurant_3_name">Goomba</string>
+    <string name="restaurant_1_desc">Perfect for dates</string>
+    <string name="restaurant_2_desc">Italian restaurant</string>
+    <string name="restaurant_3_desc">Italian restaurant</string>
+    <string name="restaurant_1_address">Shacham St 14, Petah Tikva</string>
+    <string name="restaurant_2_address">Ha-Sivim St 18, Petah Tikva</string>
+    <string name="restaurant_3_address">eshem St 11, Petah Tikva</string>
+    <string name="welcome">Welcome to the city of lights, Petah Tikva!</string>
+</resources>
