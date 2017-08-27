@@ -21,12 +21,8 @@ import java.util.ArrayList;
 
 public class PlaceAdapter extends ArrayAdapter<Place> {
 
-    //private int mImageResourceId;
-
     public PlaceAdapter(@NonNull Context context, ArrayList<Place> wordList) {
         super(context, 0, wordList);
-
-//        this.mImageResourceId = imageResourceId;
     }
 
     @NonNull
@@ -60,13 +56,7 @@ public class PlaceAdapter extends ArrayAdapter<Place> {
             image.setVisibility(View.GONE);
         }
 
-/*        View textContainer = listItemView.findViewById(R.id.text_container);
-
-        int color = ContextCompat.getColor(getContext(), mColorResourceId);
-        textContainer.setBackgroundColor(color);*/
-
         return listItemView;
-
     }
 }
 
